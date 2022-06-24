@@ -1,0 +1,38 @@
+html{
+    background: #d3d3d3;
+}
+.body{
+    color: #000080;
+    padding-top: 50px;
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+    
+}
+li{
+    padding:  5px;
+}
+.list{
+    display: inline-block;
+    text-align: left;
+    font-size: 35px;
+}
+.header{
+    color: #000080;
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid #000080;
+    
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+    color: #000080;
+}
+
+.footer{
+    display: inline-block;
+    
+}
